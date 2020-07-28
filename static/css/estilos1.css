@@ -1,0 +1,42 @@
+header{
+	background-color: #252932;
+	text-align: center;
+	border-radius: 25px;
+	padding: 10px;
+}
+
+h1{
+	color: #fff;
+}
+
+article{
+	background-color: #E0E0E0;
+}
+
+aside{
+	background-color: #FD792A;
+}
+
+.padding{
+	padding-top: 10px;
+}
+
+.color1{
+	background-color: #383B42;
+}
+
+#color1{
+	color: #fff;
+}
+
+#color2{
+	background-color: #CBCBCB;
+}
+
+footer{
+	background: lightblue;
+}
+
+#AlexRos{
+	padding: 10px;
+}
