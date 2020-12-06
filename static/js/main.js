@@ -13,7 +13,6 @@ var DeadHits = document.getElementById("a2"),
     button2 = document.getElementById("bt2");
 
 console.log("Created By AlexRos");
-console.log(codigo);
 
 var startGame = function(){
 	var promtp = prompt("Put some number of 4 digits");
